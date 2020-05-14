@@ -1,0 +1,3 @@
+pip i pipenv
+pipenv shell => creates the pip file
+pipenv install {framework_name}
