@@ -27,3 +27,9 @@ create frontend/urls
 added "--watch" to scripts "dev" so we don't have to npm run dev after every change we make
 
 Dashboard component is functional cause that's just gonna display other two components
+
+**Redux**
+npm i redux react-redux redux-thunk redux-devtools-extension
+
+create store, reducers, actions
+getLeads, deleteLead, addLead functions, reducers created
