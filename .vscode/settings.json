@@ -1,3 +1,16 @@
 {
-  "python.pythonPath": "C:\\Users\\gsg18\\.virtualenvs\\react_django-iSJmPufp\\Scripts\\python.exe"
+  "python.pythonPath": "C:\\Users\\gsg18\\.virtualenvs\\react_django-iSJmPufp\\Scripts\\python.exe",
+  "cSpell.words": [
+    "development",
+    "frontend",
+    "index",
+    "js",
+    "leadmanager",
+    "main",
+    "mode",
+    "output",
+    "src",
+    "static",
+    "webpack"
+  ]
 }

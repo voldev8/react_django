@@ -1,3 +1,29 @@
 pip i pipenv
 pipenv shell => creates the pip file
-pipenv install {framework_name}
+pipenv install  django djangorestframework django-rest-knox
+
+python manage.py startproject leadmanager
+python manege.py startapp leads
+configure leads app => serializers, api, models, urls, ViewSet
+
+**React**
+python manege.py startapp frontend
+
+npm init -y
+npm i -D webpack webpack-cli
+npm i -D @babel/core babel-loader @babel/preset-env @babel/preset-react babel-plugin-transform-class-properties
+npm i react react-dom prop-types
+
+create .babelrc file
+create webpack.config.js file
+package.json  "scripts"
+create necessary files for React App.js index.js index.html
+
+https://bootswatch.com/ get a bootstrap
+
+frontend/views 
+create frontend/urls
+
+added "--watch" to scripts "dev" so we don't have to npm run dev after every change we make
+
+Dashboard component is functional cause that's just gonna display other two components
