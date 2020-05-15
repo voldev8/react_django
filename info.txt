@@ -44,4 +44,10 @@ fetch the errors and show messages in redux state
 models.py / api.py some additions for Auth
 adding returnErrors action so we can have the errors in state 
 knox for tokens in django
-accounts startapp serializers, api.py 
+accounts startapp: serializers, api.py 
+
+**Auth state and private routes**
+react-router-dom
+Router Route Link
+PrivateRoute component created and placed where necessary
+auth reducer created
