@@ -33,3 +33,15 @@ npm i redux react-redux redux-thunk redux-devtools-extension
 
 create store, reducers, actions
 getLeads, deleteLead, addLead functions, reducers created
+
+**Alert and Error handling**
+npm i react-alert react-alert-template-basic react-transition-group
+
+fetch the errors and show messages in redux state 
+
+**Django Token Auth**
+
+models.py / api.py some additions for Auth
+adding returnErrors action so we can have the errors in state 
+knox for tokens in django
+accounts startapp serializers, api.py 
