@@ -51,3 +51,7 @@ react-router-dom
 Router Route Link
 PrivateRoute component created and placed where necessary
 auth reducer created
+
+**frontend auth**
+login function in auth reducer
+login func implemented in Login component
